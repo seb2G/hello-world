@@ -18,6 +18,6 @@ Staging Area (Index) - Whenever you do commit, Git will look for the files prese
 
 Tag - A meaningful name for a specific revision in the repository
 
-Tree - An object that represents a directory. It holds blobs as well as other sub-directories. A tree is a binary file that stores references to blobs and trees which are also named as SHA1 hash of the tree object.
+Tree - An object that represents a directory. It holds blobs as well as other sub-directories.
 
 URL - Represents the location of the Git Repository
