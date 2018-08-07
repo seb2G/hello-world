@@ -12,3 +12,4 @@ https://www.tutorialspoint.com/git/git_basic_concepts.htm
 Though Git mirrors entire repository, the size of the data on the client side is small. This illustrates the efficiency of Git at compressing and storing data on the client side.
 3. Security - Git uses a secure hash function (SHA1) to name and identify objects within its database. Every file and commit is checksummed and retrieved by its checksum at the time of checkout.
 4. https://www.tutorialspoint.com/git/git_environment.htm Setup Git client on Ubuntu
+5. https://desktop.github.com/ Setup Windows Git client
